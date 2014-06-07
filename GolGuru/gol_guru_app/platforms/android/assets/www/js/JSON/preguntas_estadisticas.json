@@ -1,0 +1,37 @@
+[{
+  "id" : "1",
+  "tipo" : "antes-partido",
+  "segundos" : "",
+  "pregunta" : "Quien va a ganar el partido?",
+  "respuestas" : [{
+    "id" : "1",
+    "respuesta" : "Argentina",
+    "puntaje" : "150"
+  }, {
+    "id" : "2",
+    "respuesta" : "Iran",
+    "puntaje" : "150"
+  }, {
+    "id" : "3",
+    "respuesta": "Empate",
+    "puntaje" : "150"
+  }]
+}, {
+  "id" : "2",
+  "tipo" : "antes-partido",
+  "segundos" : "",
+  "pregunta" : "Quien va a tener mas la pelota?",
+  "respuestas" : [{
+    "id" : "1",
+    "respuesta" : "Argentina",
+    "puntaje" : "150"
+  }, {
+    "id" : "2",
+    "respuesta" : "Iran",
+    "puntaje" : "150"
+  }, {
+    "id" : "3",
+    "respuesta": "Empate",
+    "puntaje" : "150"
+  }]    
+}]

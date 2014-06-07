@@ -1,0 +1,5 @@
+C:\SourceCode\GolGuru\DAL\bin\Debug\DAL.dll
+C:\SourceCode\GolGuru\DAL\bin\Debug\DAL.pdb
+C:\SourceCode\GolGuru\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\SourceCode\GolGuru\DAL\obj\Debug\DAL.dll
+C:\SourceCode\GolGuru\DAL\obj\Debug\DAL.pdb

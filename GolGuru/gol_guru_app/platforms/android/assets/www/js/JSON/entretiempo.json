@@ -1,0 +1,35 @@
+[{
+	"id" : "3",
+	"tipo" : "Entretiempo",
+	"segundos" : "900",
+	"pregunta" : "Quien entrará primero?",
+	"respuestas" : [{
+		"id" : "1",
+		"respuesta" : "Agustin Orion",
+		"puntaje" : "400"
+	}, {
+		"id" : "2",
+		"respuesta" : "Pablo Zabaletta",
+		"puntaje" : "400"
+	}, {
+		"id" : "3",
+		"respuesta" : "Marcos Rojo",
+		"puntaje" : "400"
+	}, {
+		"id" : "4",
+		"respuesta" : "Javier Pastore",
+		"puntaje" : "400"
+	}, {
+		"id" : "5",
+		"respuesta" : "Maxi Rodriguez",
+		"puntaje" : "400"
+	}, {
+		"id" : "6",
+		"respuesta" : "Rodrigo Palacio",
+		"puntaje" : "400" 
+	}, {
+		"id" : "7",
+		"respuesta" : "Ezequiel Lavezzi",
+		"puntaje" : "400"
+	}]
+}]

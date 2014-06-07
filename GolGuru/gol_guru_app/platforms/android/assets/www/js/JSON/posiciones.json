@@ -1,0 +1,26 @@
+[{	
+	"puntos" : "2500",
+	"puesto" : "3",
+	"total_jugadores" : "1000",
+	"posiciones" : [{
+		"puesto" : "1",
+		"mail": "agustin@gmail.com",
+		"puntos" : "3000"
+	}, {
+		"puesto" : "2",
+		"mail": "franco@gmail.com",
+		"puntos" : "2700"
+	}, {
+		"puesto" : "3",
+		"mail": "example@gmail.com",
+		"puntos" : "2500"
+	}, {
+		"puesto" : "4",
+		"mail": "francisco@gmail.com",
+		"puntos" : "2000"
+	}, {
+		"puesto" : "5",
+		"mail": "marian@gmail.com",
+		"puntos" : "1950"
+	}]
+}]

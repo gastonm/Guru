@@ -1,0 +1,27 @@
+[{
+	"id" : "6",
+	"tipo" : "Corner",
+	"segundos" : "10",
+	"pregunta" : "Corner para Argentina!",
+	"respuestas" : [{
+		"id" : "1",
+		"respuesta" : "Ataque conecta",
+		"puntaje" : "250"
+	}, {
+		"id" : "2",
+		"respuesta" : "Gol olimpico",
+		"puntaje" : "250"
+	}, {
+		"id" : "3",
+		"respuesta" : "Pase corto",
+		"puntaje" : "250"
+	}, {
+		"id" : "4",
+		"respuesta" : "Defensa/arquero despeja",
+		"puntaje" : "250" 
+	}, {
+		"id" : "5",
+		"respuesta" : "Otra",
+		"puntaje" : "250"
+	}]
+}]

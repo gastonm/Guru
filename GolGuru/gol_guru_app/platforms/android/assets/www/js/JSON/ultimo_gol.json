@@ -1,0 +1,27 @@
+[{
+	"id" : "5",
+	"tipo" : "Ultimo Gol",
+	"segundos" : "15",
+	"pregunta" : "Cuándo se marcará el último gol?",
+	"respuestas" : [{
+		"id" : "1",
+		"respuesta" : "70-75 min",
+		"puntaje" : "250"
+	}, {
+		"id" : "2",
+		"respuesta" : "75-80 min",
+		"puntaje" : "250" 
+	}, {
+		"id" : "3",
+		"respuesta" : "80-85 min",
+		"puntaje" : "250"
+	},  {
+		"id" : "4",
+		"respuesta" : "85-90 min",
+		"puntaje" : "250"
+	},  {
+		"id" : "5",
+		"respuesta" : "Nunca",
+		"puntaje" : "250"
+	}]
+}]

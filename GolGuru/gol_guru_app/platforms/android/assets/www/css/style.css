@@ -1,0 +1,133 @@
+/* Empty. Add your own CSS if you like */
+
+/* Header font */
+@font-face{font-family:'alien';src:url('../lib/ionic/fonts/alienleagueiibold.TTF')}
+@font-face{font-family:'collegiate';src:url('../lib/ionic/fonts/CollegiateFLF.TTF')}
+/* All headers */
+.bar .title {
+	font-family: 'alien';
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+
+/* Log in button */
+.submitGreen {
+	background-color: #3d9970 !important;
+	border-color: #3d9970 !important;
+	color: #e2f0b6 !important;
+}
+
+#logo {
+  margin: 30px 0px;
+}
+
+/* Estadistica row one */
+.estadisticaFilaUno {
+	background-color: #3d9970;
+	border-color: #3d9970 !important;
+}
+
+.estadisticaFilaUno h2{
+	color: #ffffff !important;
+}
+
+.estadisticaFilaUno p{
+	color: #e2f0b6 !important;
+}
+
+.estadisticaFilaUno b{
+	color: #f0f8db !important;
+}
+
+/* Estadistica row two */
+.estadisticaFilaDos {
+	background-color: #70cca2;
+	border-color: #70cca2 !important;
+}
+
+.estadisticaFilaDos h2{
+	color: #ffffff !important;
+}
+
+.estadisticaFilaDos p{
+	color: #e2f0b6 !important;
+}
+
+.estadisticaFilaDos b{
+	color: #f0f8db !important;
+}
+
+/* Estadistica row three */
+.estadisticaFilaTres {
+	background-color: #89ccad;
+	border-color: #89ccad !important;
+}
+
+.estadisticaFilaTres h2{
+	color: #ffffff !important;
+}
+
+.estadisticaFilaTres p{
+	color: #e2f0b6 !important;
+}
+
+.estadisticaFilaTres b{
+	color: #f0f8db !important;
+}
+
+.selected {
+	border-color: #ccc !important;
+	background-color: #D9D9D9 !important;
+}
+
+.timer {
+	background-color: #70cca2;
+	border-color: #70cca2 !important;
+	text-align: center !important;
+	margin: 0 !important;
+	padding: 20px 0 0 0 !important;
+}
+
+.timer b{
+	color: #f0f8db !important;
+	font-size: 1.5em;
+}
+
+.timer p{
+	color: #e2f0b6 !important;
+	font-size: 1em;
+}
+
+.resultado1 {
+	background-color: #3d9970;
+	border-color: #3d9970 !important;
+	text-align: center !important;
+	margin: 0 !important;
+	padding: 20px 0 0 0 !important;
+}
+
+.resultado2 {
+	background-color: #70cca2;
+	border-color: #70cca2 !important;
+	text-align: center !important;
+	margin: 0 !important;
+	padding: 20px 0 0 0 !important;
+	font-size: 1.5em;
+}
+
+.resultado3 {
+	background-color: #89ccad;
+	border-color: #89ccad !important;
+	text-align: center !important;
+	color: #ffffff !important;
+	font-size: 1.5em;
+	letter-spacing: 2px;
+}
+
+.resultado4 {
+	font-family:'collegiate';
+	text-align: center;
+	font-size: 1.5em;
+	line-height:150%;
+	letter-spacing: 2px;
+}

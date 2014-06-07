@@ -1,0 +1,27 @@
+[{
+	"id" : "7",
+	"tipo" : "Tiro Libre",
+	"segundos" : "10",
+	"pregunta" : "Tiro libre para Argentina!",
+	"respuestas" : [{
+		"id" : "1",
+		"respuesta" : "Gol directo",
+		"puntaje" : "350"
+	}, {
+		"id" : "2",
+		"respuesta" : "Afuera directo",
+		"puntaje" : "350"
+	}, {
+		"id" : "3",
+		"respuesta" : "Barrera",
+		"puntaje" : "350"
+	}, {
+		"id" : "4",
+		"respuesta" : "Pase corto o centro",
+		"puntaje" : "350" 
+	}, {
+		"id" : "5",
+		"respuesta" : "Otra",
+		"puntaje" : "350"
+	}]
+}]

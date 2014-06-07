@@ -1,0 +1,27 @@
+[{
+	"id" : "4",
+	"tipo" : "Figura",
+	"segundos" : "15",
+	"pregunta" : "Quien será la figura del partido?",
+	"respuestas" : [{
+		"id" : "1",
+		"respuesta" : "Chiquito Romero",
+		"puntaje" : "250"
+	}, {
+		"id" : "2",
+		"respuesta" : "Javier Mascherano",
+		"puntaje" : "250"
+	}, {
+		"id" : "3",
+		"respuesta" : "Kun Aguero",
+		"puntaje" : "250"
+	}, {
+		"id" : "4",
+		"respuesta" : "Gonzalo Higuain",
+		"puntaje" : "250" 
+	}, {
+		"id" : "5",
+		"respuesta" : "Lionel Messi",
+		"puntaje" : "250"
+	}]
+}]
